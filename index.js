@@ -20,6 +20,8 @@ class Dinner{
     this._salad=salad;
     this._soup=soup;
     this._entree=entree;
+    this._dessert=dessert;
+
 
   }
 }
